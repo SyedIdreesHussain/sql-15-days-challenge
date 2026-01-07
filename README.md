@@ -5,6 +5,7 @@ This repository documents my **15-day SQL learning journey** using MySQL.
 ## Progress
 - ✅ Day 1: SQL Basics (CREATE, INSERT, SELECT)
 - ✅ Day 2: Filtering & column selection (WHERE, aliases)
+- ✅ Day 3: Advanced filtering logic (BETWEEN, IN, NOT IN, AND / OR)
 
 Each day includes hands-on practice queries and examples.
 
